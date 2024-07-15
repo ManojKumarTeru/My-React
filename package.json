@@ -1,0 +1,23 @@
+{
+  "name": "mak_react_practice",
+  "version": "1.0.0",
+  "description": "this is Manoj React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojKumarTeru/My-React.git"
+  },
+  "keywords": [],
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojKumarTeru/My-React/issues"
+  },
+  "homepage": "https://github.com/ManojKumarTeru/My-React#readme",
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
